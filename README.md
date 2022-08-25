@@ -13,8 +13,7 @@ Specialized in offering solutions in Software Development sourcing Technology pr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![capa_lkd_inglês](https://user-images.githubusercontent.com/91694294/186643991-8f780e54-1d2d-4bdf-aeed-94f5f61a8d84.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CASTECH-Software-Solutions&icon=5&color=12)](https://visitcount.itsvg.in)
