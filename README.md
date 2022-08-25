@@ -1,4 +1,3 @@
-# .github
 # About the company
 Specialized in offering solutions in Software Development sourcing Technology professionals, using advanced artificial intelligence and machine learning.<br>Our mission is to save our clients' time and money with digital solutions for a digital world.
 
